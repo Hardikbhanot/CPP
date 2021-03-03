@@ -5,7 +5,7 @@
 #include<iostream>
 #include<fstream>
 #include<cstring>
-
+// hierhhejejkjsj
 using namespace std;
 
 int logstat=0,itemCh=0;
